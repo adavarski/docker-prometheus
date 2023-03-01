@@ -7,8 +7,6 @@ Monitoring stack for Docker host and containers with [Prometheus](https://promet
 
 
 ```bash
-cd prometheus-grafana-nodeexporter
-
 ADMIN_USER=admin ADMIN_PASSWORD=admin docker-compose up -d
 ```
 Prerequisites:
