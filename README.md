@@ -1,4 +1,4 @@
-## Docker: Monitoring stack for Docker host and containers with Prometheus, Grafana, cAdvisor, NodeExporter and alerting with AlertManager 
+## Docker Prometheus 
 =============================================
 
 Monitoring stack for Docker host and containers with [Prometheus](https://prometheus.io/), [Grafana](http://grafana.org/), [cAdvisor](https://github.com/google/cadvisor),
