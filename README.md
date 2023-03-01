@@ -341,7 +341,7 @@ To run the grafana container as `user: 104` change your `docker-compose.yml` lik
 
 <img src="pictures/Grafana-Prometheus.png?raw=true" width="900">
 
-<img src="pictures/Graphana-Dashboards.png?raw=true" width="900">
+<img src="pictures/Grafana-Dashboards.png?raw=true" width="900">
 
 <img src="pictures/Grafana-Docker-Host-Dashboard.png?raw=true" width="900">
 
